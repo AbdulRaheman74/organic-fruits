@@ -31,4 +31,4 @@ Isme JavaScript ka use frontend ke liye hua hai aur PHP + MongoDB ka use backend
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/AbdulRaheman74/organic-fruits.git
+ https://github.com/AbdulRaheman74/organic-fruits.git
